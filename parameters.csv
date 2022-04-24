@@ -1,0 +1,2 @@
+﻿simulation name,population size,infected population,R,T,P1,P2,recovery time
+Default simulation,0.4,0.001,0.1,0.21,0.1,0.05,15
